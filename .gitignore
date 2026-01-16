@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 dist
 .env
@@ -25,3 +26,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+passwords/
+app.js
+*.css
+>>>>>>> 7ad8345e99c3921dfbfa9622cf52328301c7daed
